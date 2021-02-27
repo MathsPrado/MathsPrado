@@ -1,4 +1,4 @@
-### my name is Matheus Prado
+### Hi 👋  my name is Matheus Prado.
 
 - 🔭 I work with .NET, Swift, oracle.
 - 🌱 I’m currently working as a Dev in Foxconn
