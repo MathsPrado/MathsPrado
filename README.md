@@ -12,8 +12,3 @@
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MathsPrado&count_private=true&show_icons=true" />
 </a>
 
-#### Languages
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MathsPrado">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MathsPrado" />
-</a>
-</div>
