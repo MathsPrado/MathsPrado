@@ -1,6 +1,6 @@
 # Hi, I'm Matheus Prado
 
-Welcome to my GitHub profile! I'm a passionate developer with extensive experience in building scalable applications and solving complex problems.
+Welcome to my GitHub profile!
 
 ## 🔭 About Me
 
@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer with extensive experien
 - **JavaScript/TypeScript** - Web development
 - **Blazor/Asp.net** - Web Development
 - **Swift** - iOS mobile development
-
-### Other
-- RESTful APIs
-- Software Architecture
 
 ## 🌱 Currently Learning
 
