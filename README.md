@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - **Current Role:** Developer at Foxconn (6+ years of experience)
 - **Tech Stack:** .NET, ASP.NET, C#, Oracle DB, JavaScript, Swift, focus in Microsoft Technologies...
-- **Passion:** I enjoy programming in virtually any language and learning new technologies
+- **Passion:** learning new technologies and practice.
 - **Location:** Brazil 🇧🇷
 
 ## 💻 Technical Skills
