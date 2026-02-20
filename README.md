@@ -21,14 +21,9 @@ Welcome to my GitHub profile!
 - **Blazor/Asp.net** - Web Development
 - **Swift** - iOS mobile development
 
-## 🌱 Currently Learning
 
-- Always exploring new frameworks and best practices in software development
-
-## 🎯 What I'm Working On
-
-I'm back and excited to share my projects and contribute to the open-source community!
-
+ Always exploring frameworks and best practices in software development.
+ I'm back and excited to share my projects and contribute to the open-source community!
 ---
 
 ⭐ If you find my projects useful, don't forget to star them! Your support is appreciated.
