@@ -22,7 +22,6 @@ Welcome to my GitHub profile!
 - **Swift** - iOS mobile development
 
 
- Always exploring frameworks and best practices in software development.
  I'm back and excited to share my projects and contribute to the open-source community!
 ---
 
